@@ -45,10 +45,10 @@ You can purchase the latest, production-ready source code of this Paytm Clone fo
 
 ## 📸 Screenshots & Demo
 
-| <img src="screenshots/Screenshot 2026-04-08 at 11.24.12 AM.png" width="280"> | <img src="screenshots/Screenshot 2026-04-08 at 11.24.27 AM.png" width="280"> | <img src="screenshots/Screenshot 2026-04-08 at 11.24.32 AM.png" width="280"> |
+| <img src="screenshots/Screenshot 2026-04-08 at 11.24.12 AM.png" width="220"> | <img src="screenshots/Screenshot 2026-04-08 at 11.24.27 AM.png" width="220"> | <img src="screenshots/Screenshot 2026-04-08 at 11.24.32 AM.png" width="220"> |
 |:---:|:---:|:---:|
-| <img src="screenshots/Screenshot 2026-04-08 at 11.24.39 AM.png" width="280"> | <img src="screenshots/Screenshot 2026-04-08 at 11.24.48 AM.png" width="280"> | <img src="screenshots/Screenshot 2026-04-08 at 11.24.53 AM.png" width="280"> |
-| <img src="screenshots/Screenshot 2026-04-08 at 11.25.06 AM.png" width="280"> | <img src="screenshots/Screenshot 2026-04-08 at 11.25.11 AM.png" width="280"> | <img src="screenshots/Screenshot 2026-04-08 at 11.25.30 AM.png" width="280"> |
+| <img src="screenshots/Screenshot 2026-04-08 at 11.24.39 AM.png" width="220"> | <img src="screenshots/Screenshot 2026-04-08 at 11.24.48 AM.png" width="220"> | <img src="screenshots/Screenshot 2026-04-08 at 11.24.53 AM.png" width="220"> |
+| <img src="screenshots/Screenshot 2026-04-08 at 11.25.06 AM.png" width="220"> | <img src="screenshots/Screenshot 2026-04-08 at 11.25.11 AM.png" width="220"> | <img src="screenshots/Screenshot 2026-04-08 at 11.25.30 AM.png" width="220"> |
 
 ---
 
